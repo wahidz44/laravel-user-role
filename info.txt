@@ -28,7 +28,7 @@
 |
 | 1. composer install
 |
-| 2. .env.example .env
+| 2. copy .env.example .env
 |
 | 3. php artisan key:generate
 |
